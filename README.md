@@ -1,6 +1,6 @@
 # Enhanced fringe-to-phase framework using deep learning
 
-[paper](http://www.google.co.kr)
+[paper](https://doi.org/10.1016/j.imavis.2024.105204)
 
 [dataset](https://www.dropbox.com/scl/fo/pb3nlmwpxmmcbn9ma7q05/ABO-rcmSAmSl3XNQn9kjsUs?rlkey=9sejey926zz1n3d7d5shc5g34&st=5ys43y60&dl=0)
 
